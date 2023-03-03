@@ -8,7 +8,7 @@ import org.springframework.cloud.netflix.feign.FeignClient;
  * @author xianghao
  *
  */
-@FeignClient("eshop-finance")
+@FeignClient("xmall-finance")
 public interface FinanceService extends FinanceApi {
 
 }

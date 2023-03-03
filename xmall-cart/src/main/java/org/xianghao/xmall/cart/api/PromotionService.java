@@ -9,7 +9,7 @@ import org.xianghao.xmall.api.api.promotion.PromotionApi;
  * @author xianghao
  *
  */
-@FeignClient("eshop-promotion") 
+@FeignClient("xmall-promotion")
 public interface PromotionService extends PromotionApi {
 
 }

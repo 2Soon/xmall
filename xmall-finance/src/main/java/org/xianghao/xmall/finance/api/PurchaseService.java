@@ -8,7 +8,7 @@ import org.springframework.cloud.netflix.feign.FeignClient;
  * @author xianghao
  *
  */
-@FeignClient("eshop-purchase")
+@FeignClient("xmall-purchase")
 public interface PurchaseService extends PurchaseApi {
 
 }

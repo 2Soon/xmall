@@ -8,7 +8,7 @@ import org.springframework.cloud.netflix.feign.FeignClient;
  * @author xianghao
  *
  */
-@FeignClient("eshop-commodity")
+@FeignClient("xmall-commodity")
 public interface CommodityService extends CommodityApi {
 
 }

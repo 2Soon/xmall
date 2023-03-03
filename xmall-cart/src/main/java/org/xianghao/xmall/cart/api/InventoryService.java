@@ -8,7 +8,7 @@ import org.xianghao.xmall.api.api.inventory.InventoryApi;
  * @author xianghao
  *
  */
-@FeignClient("eshop-inventory")  
+@FeignClient("xmall-inventory")
 public interface InventoryService extends InventoryApi {
 
 }

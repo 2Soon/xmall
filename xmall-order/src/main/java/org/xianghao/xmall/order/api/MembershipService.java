@@ -8,7 +8,7 @@ import org.springframework.cloud.netflix.feign.FeignClient;
  * @author xianghao
  *
  */
-@FeignClient("eshop-membership")
+@FeignClient("xmall-membership")
 public interface MembershipService extends MembershipApi {
 
 }

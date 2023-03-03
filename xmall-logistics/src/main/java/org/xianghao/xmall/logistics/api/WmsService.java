@@ -8,7 +8,7 @@ import org.xianghao.xmall.api.api.wms.WmsApi;
  * @author xianghao
  *
  */
-@FeignClient("eshop-wms")
+@FeignClient("xmall-wms")
 public interface WmsService extends WmsApi {
 
 }

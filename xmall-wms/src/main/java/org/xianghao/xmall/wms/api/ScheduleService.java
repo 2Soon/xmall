@@ -8,7 +8,7 @@ import org.springframework.cloud.netflix.feign.FeignClient;
  * @author xianghao
  *
  */
-@FeignClient("eshop-schedule")
+@FeignClient("xmall-schedule")
 public interface ScheduleService extends ScheduleApi {
 
 }

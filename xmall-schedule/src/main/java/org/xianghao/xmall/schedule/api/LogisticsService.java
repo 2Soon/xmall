@@ -8,7 +8,7 @@ import org.xianghao.xmall.api.api.logistics.LogisticsApi;
  * @author xianghao
  *
  */
-@FeignClient("eshop-logistics")
+@FeignClient("xmall-logistics")
 public interface LogisticsService extends LogisticsApi {
 
 }
