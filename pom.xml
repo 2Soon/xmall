@@ -12,6 +12,19 @@
         <module>xmall-auth</module>
         <module>xmall-common</module>
         <module>xmall-cart</module>
+        <module>xmall-commodity</module>
+        <module>xmall-api</module>
+        <module>xmall-order</module>
+        <module>xmall-wms</module>
+        <module>xmall-promotion</module>
+        <module>xmall-schedule</module>
+        <module>xmall-inventory</module>
+        <module>xmall-customer</module>
+        <module>xmall-purchase</module>
+        <module>xmall-pay</module>
+        <module>xmall-membership</module>
+        <module>xmall-finance</module>
+        <module>xmall-logistics</module>
     </modules>
 
 
