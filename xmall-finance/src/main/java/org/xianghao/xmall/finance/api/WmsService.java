@@ -8,7 +8,7 @@ import org.springframework.cloud.netflix.feign.FeignClient;
  * @author xianghao
  *
  */
-@FeignClient("eshop-wms")
+@FeignClient("xmall-wms")
 public interface WmsService extends WmsApi {
 
 }

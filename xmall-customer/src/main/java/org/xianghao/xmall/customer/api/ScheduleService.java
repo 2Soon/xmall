@@ -8,7 +8,7 @@ import org.xianghao.xmall.api.api.schedule.ScheduleApi;
  * @author xianghao
  *
  */
-@FeignClient("eshop-schedule")
+@FeignClient("xmall-schedule")
 public interface ScheduleService extends ScheduleApi {
 
 }

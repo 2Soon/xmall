@@ -8,7 +8,7 @@ import org.springframework.cloud.netflix.feign.FeignClient;
  * @author xianghao
  *
  */
-@FeignClient("eshop-logistics")
+@FeignClient("xmall-logistics")
 public interface LogisticsService extends LogisticsApi {
 
 }

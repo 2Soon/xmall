@@ -8,7 +8,7 @@ import org.xianghao.xmall.api.api.order.OrderApi;
  * @author xianghao
  *
  */
-@FeignClient("eshop-order")
+@FeignClient("xmall-order")
 public interface OrderService extends OrderApi {
 
 }

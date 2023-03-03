@@ -8,7 +8,7 @@ import org.xianghao.xmall.api.api.commodity.CommodityApi;
  * @author xianghao
  *
  */
-@FeignClient("eshop-commodity")
+@FeignClient("xmall-commodity")
 public interface CommodityService extends CommodityApi {
 
 }
